@@ -360,8 +360,10 @@
             "active": false
         },
         "90": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F305 (Cửa 1)"
+            ],
+            "active": true
         },
         "91": {
             "labels": [],
@@ -380,8 +382,10 @@
             "active": false
         },
         "95": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa 1 phòng E203"
+            ],
+            "active": true
         },
         "96": {
             "labels": [],
@@ -600,8 +604,10 @@
             "active": false
         },
         "150": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Bộ môn Vật lý - Tin học (Lầu3)"
+            ],
+            "active": true
         },
         "151": {
             "labels": [],
@@ -1480,8 +1486,10 @@
             "active": false
         },
         "370": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 202 (Tòa F - Cửa 2)"
+            ],
+            "active": true
         },
         "371": {
             "labels": [],
@@ -1492,8 +1500,10 @@
             "active": false
         },
         "373": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E206"
+            ],
+            "active": true
         },
         "374": {
             "labels": [],
@@ -1576,8 +1586,10 @@
             "active": false
         },
         "394": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 209 (Tòa F - Phòng máy)"
+            ],
+            "active": true
         },
         "395": {
             "labels": [],
@@ -1664,8 +1676,10 @@
             "active": false
         },
         "416": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F206a"
+            ],
+            "active": true
         },
         "417": {
             "labels": [],
@@ -2252,8 +2266,10 @@
             "active": false
         },
         "563": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang phải (Tầng 2) & Giao điểm Tòa E"
+            ],
+            "active": true
         },
         "564": {
             "labels": [],
@@ -2356,8 +2372,10 @@
             "active": false
         },
         "589": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E303a"
+            ],
+            "active": true
         },
         "590": {
             "labels": [],
@@ -3428,8 +3446,10 @@
             "active": false
         },
         "857": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 18 (Tòa F)"
+            ],
+            "active": true
         },
         "858": {
             "labels": [],
@@ -3696,8 +3716,10 @@
             "active": false
         },
         "924": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Restroom GV/Khách (Tòa F - T1)"
+            ],
+            "active": true
         },
         "925": {
             "labels": [],
@@ -4136,8 +4158,10 @@
             "active": false
         },
         "1034": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 13 (Tòa F)"
+            ],
+            "active": true
         },
         "1035": {
             "labels": [],
@@ -4624,8 +4648,10 @@
             "active": false
         },
         "1156": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Nhà vệ sinh nam Tòa F (Tầng 1)"
+            ],
+            "active": true
         },
         "1157": {
             "labels": [],
@@ -4684,8 +4710,10 @@
             "active": false
         },
         "1171": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Bộ môn Di truyền (Tòa F)"
+            ],
+            "active": true
         },
         "1172": {
             "labels": [],
@@ -5044,8 +5072,10 @@
             "active": false
         },
         "1261": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa E302 (2)"
+            ],
+            "active": true
         },
         "1262": {
             "labels": [],
@@ -5088,8 +5118,10 @@
             "active": false
         },
         "1272": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 111 (Tòa F)"
+            ],
+            "active": true
         },
         "1273": {
             "labels": [],
@@ -5392,16 +5424,20 @@
             "active": false
         },
         "1348": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng không tên (Lầu3)"
+            ],
+            "active": true
         },
         "1349": {
             "labels": [],
             "active": false
         },
         "1350": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F303 (Cửa 2)"
+            ],
+            "active": true
         },
         "1351": {
             "labels": [],
@@ -5436,8 +5472,10 @@
             "active": false
         },
         "1359": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E402 (2)"
+            ],
+            "active": true
         },
         "1360": {
             "labels": [],
@@ -5520,8 +5558,10 @@
             "active": false
         },
         "1380": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E304"
+            ],
+            "active": true
         },
         "1381": {
             "labels": [],
@@ -6440,8 +6480,10 @@
             "active": false
         },
         "1610": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Văn phòng Hội đoàn (Tòa F)"
+            ],
+            "active": true
         },
         "1611": {
             "labels": [],
@@ -6452,8 +6494,10 @@
             "active": false
         },
         "1613": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E404 (1)"
+            ],
+            "active": true
         },
         "1614": {
             "labels": [],
@@ -6884,8 +6928,10 @@
             "active": false
         },
         "1721": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng không tên (Tòa F - T1)"
+            ],
+            "active": true
         },
         "1722": {
             "labels": [],
@@ -7728,8 +7774,10 @@
             "active": false
         },
         "1932": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa E204"
+            ],
+            "active": true
         },
         "1933": {
             "labels": [],
@@ -8056,8 +8104,10 @@
             "active": false
         },
         "2014": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 201b (Tòa E)"
+            ],
+            "active": true
         },
         "2015": {
             "labels": [],
@@ -8520,8 +8570,10 @@
             "active": false
         },
         "2130": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E402 (1)"
+            ],
+            "active": true
         },
         "2131": {
             "labels": [],
@@ -8920,8 +8972,10 @@
             "active": false
         },
         "2230": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang trái Tòa F (Tầng trệt)"
+            ],
+            "active": true
         },
         "2231": {
             "labels": [],
@@ -9512,8 +9566,10 @@
             "active": false
         },
         "2378": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Văn phòng Khoa KHVL (Tòa F)"
+            ],
+            "active": true
         },
         "2379": {
             "labels": [],
@@ -9704,8 +9760,10 @@
             "active": false
         },
         "2426": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Nhà vệ sinh nữ Tòa F (Tầng trệt 1)"
+            ],
+            "active": true
         },
         "2427": {
             "labels": [],
@@ -10008,8 +10066,10 @@
             "active": false
         },
         "2502": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng Thông tin - Truyền thông (Tòa F)"
+            ],
+            "active": true
         },
         "2503": {
             "labels": [],
@@ -10156,8 +10216,10 @@
             "active": false
         },
         "2539": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 100 (Tòa F)"
+            ],
+            "active": true
         },
         "2540": {
             "labels": [],
@@ -10244,12 +10306,16 @@
             "active": false
         },
         "2561": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng không tên (Tòa F - Tầng trệt)"
+            ],
+            "active": true
         },
         "2562": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng không tên C (Lầu4)"
+            ],
+            "active": true
         },
         "2563": {
             "labels": [],
@@ -11032,8 +11098,10 @@
             "active": false
         },
         "2758": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang 2 (Lầu1)"
+            ],
+            "active": true
         },
         "2759": {
             "labels": [],
@@ -11236,8 +11304,10 @@
             "active": false
         },
         "2809": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng mất nhãn (Tòa F - Tầng trệt)"
+            ],
+            "active": true
         },
         "2810": {
             "labels": [],
@@ -11960,8 +12030,10 @@
             "active": false
         },
         "2990": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang y tế (Tòa E)"
+            ],
+            "active": true
         },
         "2991": {
             "labels": [],
@@ -12260,8 +12332,10 @@
             "active": false
         },
         "3065": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E103b"
+            ],
+            "active": true
         },
         "3066": {
             "labels": [],
@@ -12800,8 +12874,10 @@
             "active": false
         },
         "3200": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 09 (Tòa F - Phải - Tầng trệt)"
+            ],
+            "active": true
         },
         "3201": {
             "labels": [],
@@ -12896,8 +12972,10 @@
             "active": false
         },
         "3224": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 101b (Tòa F)"
+            ],
+            "active": true
         },
         "3225": {
             "labels": [],
@@ -13084,8 +13162,10 @@
             "active": false
         },
         "3271": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang trái Tòa F (Tầng 2)"
+            ],
+            "active": true
         },
         "3272": {
             "labels": [],
@@ -13224,8 +13304,10 @@
             "active": false
         },
         "3306": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 12 (Tòa F)"
+            ],
+            "active": true
         },
         "3307": {
             "labels": [],
@@ -13460,8 +13542,10 @@
             "active": false
         },
         "3365": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang trái Tòa F (Tầng 1)"
+            ],
+            "active": true
         },
         "3366": {
             "labels": [],
@@ -13620,8 +13704,10 @@
             "active": false
         },
         "3405": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 101a (Tòa F)"
+            ],
+            "active": true
         },
         "3406": {
             "labels": [],
@@ -13688,8 +13774,10 @@
             "active": false
         },
         "3422": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Nhà vệ sinh nam Tòa F (Tầng trệt - Phải)"
+            ],
+            "active": true
         },
         "3423": {
             "labels": [],
@@ -13748,8 +13836,10 @@
             "active": false
         },
         "3437": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang y tế (Tòa E) - Lầu2"
+            ],
+            "active": true
         },
         "3438": {
             "labels": [],
@@ -13784,8 +13874,10 @@
             "active": false
         },
         "3446": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F304 (Cửa 1)"
+            ],
+            "active": true
         },
         "3447": {
             "labels": [],
@@ -13984,8 +14076,10 @@
             "active": false
         },
         "3496": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang phải 2 Tòa F (Tầng 2)"
+            ],
+            "active": true
         },
         "3497": {
             "labels": [],
@@ -14144,8 +14238,10 @@
             "active": false
         },
         "3536": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng đọc Khoa MTR (Tòa F)"
+            ],
+            "active": true
         },
         "3537": {
             "labels": [],
@@ -14524,8 +14620,10 @@
             "active": false
         },
         "3631": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F.105"
+            ],
+            "active": true
         },
         "3632": {
             "labels": [],
@@ -14680,8 +14778,10 @@
             "active": false
         },
         "3670": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 03 (Tòa F)"
+            ],
+            "active": true
         },
         "3671": {
             "labels": [],
@@ -14816,8 +14916,10 @@
             "active": false
         },
         "3704": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F305 (Cửa 2)"
+            ],
+            "active": true
         },
         "3705": {
             "labels": [],
@@ -14868,8 +14970,10 @@
             "active": false
         },
         "3717": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa E301 (2)"
+            ],
+            "active": true
         },
         "3718": {
             "labels": [],
@@ -15232,8 +15336,10 @@
             "active": false
         },
         "3808": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang 2 (Lầu4)"
+            ],
+            "active": true
         },
         "3809": {
             "labels": [],
@@ -15784,8 +15890,10 @@
             "active": false
         },
         "3946": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa E301 (1)"
+            ],
+            "active": true
         },
         "3947": {
             "labels": [],
@@ -16860,8 +16968,10 @@
             "active": false
         },
         "4215": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 09 (Tòa F - Tầng trệt)"
+            ],
+            "active": true
         },
         "4216": {
             "labels": [],
@@ -17176,8 +17286,10 @@
             "active": false
         },
         "4294": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Nhà vệ sinh nữ cạnh cầu thang y tế (Lầu1)"
+            ],
+            "active": true
         },
         "4295": {
             "labels": [],
@@ -17564,8 +17676,10 @@
             "active": false
         },
         "4391": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang trung tâm Tòa F (Tầng 2)"
+            ],
+            "active": true
         },
         "4392": {
             "labels": [],
@@ -18116,8 +18230,10 @@
             "active": false
         },
         "4529": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang trung tâm Tòa F (Tầng 1)"
+            ],
+            "active": true
         },
         "4530": {
             "labels": [],
@@ -18136,8 +18252,10 @@
             "active": false
         },
         "4534": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 14 (Tòa F)"
+            ],
+            "active": true
         },
         "4535": {
             "labels": [],
@@ -18180,8 +18298,10 @@
             "active": false
         },
         "4545": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng Thí nghiệm Điện tử (Lầu1)"
+            ],
+            "active": true
         },
         "4546": {
             "labels": [],
@@ -18488,16 +18608,20 @@
             "active": false
         },
         "4622": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E303b"
+            ],
+            "active": true
         },
         "4623": {
             "labels": [],
             "active": false
         },
         "4624": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang 2 (Lầu3)"
+            ],
+            "active": true
         },
         "4625": {
             "labels": [],
@@ -19236,8 +19360,10 @@
             "active": false
         },
         "4809": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F304 (Cửa 2)"
+            ],
+            "active": true
         },
         "4810": {
             "labels": [],
@@ -20352,8 +20478,10 @@
             "active": false
         },
         "5088": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng GV F302"
+            ],
+            "active": true
         },
         "5089": {
             "labels": [],
@@ -20392,8 +20520,10 @@
             "active": false
         },
         "5098": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 15 (Tòa F)"
+            ],
+            "active": true
         },
         "5099": {
             "labels": [],
@@ -20544,8 +20674,10 @@
             "active": false
         },
         "5136": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng không tên B - cửa 2 (Lầu4)"
+            ],
+            "active": true
         },
         "5137": {
             "labels": [],
@@ -20652,8 +20784,10 @@
             "active": false
         },
         "5163": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E205"
+            ],
+            "active": true
         },
         "5164": {
             "labels": [],
@@ -20728,8 +20862,10 @@
             "active": false
         },
         "5182": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Giao điểm Tòa E (Lầu 3)"
+            ],
+            "active": true
         },
         "5183": {
             "labels": [],
@@ -20872,8 +21008,10 @@
             "active": false
         },
         "5218": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 16 (Tòa F)"
+            ],
+            "active": true
         },
         "5219": {
             "labels": [],
@@ -21132,8 +21270,10 @@
             "active": false
         },
         "5283": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng Tổ chức - Hành chính (Tòa F)"
+            ],
+            "active": true
         },
         "5284": {
             "labels": [],
@@ -21352,8 +21492,10 @@
             "active": false
         },
         "5338": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E107"
+            ],
+            "active": true
         },
         "5339": {
             "labels": [],
@@ -21804,8 +21946,10 @@
             "active": false
         },
         "5451": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 103 (Tòa F)"
+            ],
+            "active": true
         },
         "5452": {
             "labels": [],
@@ -21976,8 +22120,10 @@
             "active": false
         },
         "5494": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E106"
+            ],
+            "active": true
         },
         "5495": {
             "labels": [],
@@ -22408,8 +22554,10 @@
             "active": false
         },
         "5602": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 208 (Tòa F - Phòng máy Toán Tin)"
+            ],
+            "active": true
         },
         "5603": {
             "labels": [],
@@ -22476,8 +22624,10 @@
             "active": false
         },
         "5619": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 08 (Tòa F)"
+            ],
+            "active": true
         },
         "5620": {
             "labels": [],
@@ -22932,8 +23082,10 @@
             "active": false
         },
         "5733": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E404 (2)"
+            ],
+            "active": true
         },
         "5734": {
             "labels": [],
@@ -23036,8 +23188,10 @@
             "active": false
         },
         "5759": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E103a"
+            ],
+            "active": true
         },
         "5760": {
             "labels": [],
@@ -23064,8 +23218,10 @@
             "active": false
         },
         "5766": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 207 (Tòa F)"
+            ],
+            "active": true
         },
         "5767": {
             "labels": [],
@@ -23924,8 +24080,10 @@
             "active": false
         },
         "5981": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 106a (Tòa F)"
+            ],
+            "active": true
         },
         "5982": {
             "labels": [],
@@ -23940,8 +24098,10 @@
             "active": false
         },
         "5985": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa 2 phòng E203"
+            ],
+            "active": true
         },
         "5986": {
             "labels": [],
@@ -24016,8 +24176,10 @@
             "active": false
         },
         "6004": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 101 (Tòa F)"
+            ],
+            "active": true
         },
         "6005": {
             "labels": [],
@@ -24884,8 +25046,10 @@
             "active": false
         },
         "6221": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang trung tâm & Giảng đường (Tòa F - Trệt)"
+            ],
+            "active": true
         },
         "6222": {
             "labels": [],
@@ -25136,8 +25300,10 @@
             "active": false
         },
         "6284": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang y tế (Tòa E) - Lầu4"
+            ],
+            "active": true
         },
         "6285": {
             "labels": [],
@@ -25280,8 +25446,10 @@
             "active": false
         },
         "6320": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E403 (2)"
+            ],
+            "active": true
         },
         "6321": {
             "labels": [],
@@ -25424,8 +25592,10 @@
             "active": false
         },
         "6356": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 110 (Tòa F)"
+            ],
+            "active": true
         },
         "6357": {
             "labels": [],
@@ -25532,8 +25702,10 @@
             "active": false
         },
         "6383": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng không tên A (Lầu4)"
+            ],
+            "active": true
         },
         "6384": {
             "labels": [],
@@ -25784,8 +25956,10 @@
             "active": false
         },
         "6446": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 202b (Tòa E)"
+            ],
+            "active": true
         },
         "6447": {
             "labels": [],
@@ -26152,8 +26326,10 @@
             "active": false
         },
         "6538": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 109 (Tòa F)"
+            ],
+            "active": true
         },
         "6539": {
             "labels": [],
@@ -27468,8 +27644,10 @@
             "active": false
         },
         "6867": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Văn phòng Tiếp dân & TTPCH (Tòa F)"
+            ],
+            "active": true
         },
         "6868": {
             "labels": [],
@@ -28412,8 +28590,10 @@
             "active": false
         },
         "7103": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng KH & CN (Tòa F)"
+            ],
+            "active": true
         },
         "7104": {
             "labels": [],
@@ -28620,8 +28800,10 @@
             "active": false
         },
         "7155": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 17 (Tòa F)"
+            ],
+            "active": true
         },
         "7156": {
             "labels": [],
@@ -29080,8 +29262,10 @@
             "active": false
         },
         "7270": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 202a (Tòa E)"
+            ],
+            "active": true
         },
         "7271": {
             "labels": [],
@@ -29476,8 +29660,10 @@
             "active": false
         },
         "7369": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E101a - Phòng họp (Lầu1)"
+            ],
+            "active": true
         },
         "7370": {
             "labels": [],
@@ -29832,8 +30018,10 @@
             "active": false
         },
         "7458": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Nhà vệ sinh nam cạnh cầu thang (Lầu2)"
+            ],
+            "active": true
         },
         "7459": {
             "labels": [],
@@ -29908,8 +30096,10 @@
             "active": false
         },
         "7477": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang 2 (Lầu2)"
+            ],
+            "active": true
         },
         "7478": {
             "labels": [],
@@ -30256,8 +30446,10 @@
             "active": false
         },
         "7564": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 300 (Tòa F)"
+            ],
+            "active": true
         },
         "7565": {
             "labels": [],
@@ -30280,8 +30472,10 @@
             "active": false
         },
         "7570": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang trung tâm Tòa F (Tầng 3)"
+            ],
+            "active": true
         },
         "7571": {
             "labels": [],
@@ -30876,8 +31070,10 @@
             "active": false
         },
         "7719": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang phải (Tầng 1) & Giao điểm Tòa E"
+            ],
+            "active": true
         },
         "7720": {
             "labels": [],
@@ -32020,8 +32216,10 @@
             "active": false
         },
         "8005": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 112 (Tòa F)"
+            ],
+            "active": true
         },
         "8006": {
             "labels": [],
@@ -32640,8 +32838,10 @@
             "active": false
         },
         "8160": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng không tên (Tòa F - T2)"
+            ],
+            "active": true
         },
         "8161": {
             "labels": [],
@@ -33196,8 +33396,10 @@
             "active": false
         },
         "8299": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E403 (1)"
+            ],
+            "active": true
         },
         "8300": {
             "labels": [],
@@ -33324,8 +33526,10 @@
             "active": false
         },
         "8331": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa không nhãn (Tòa F - Tầng trệt)"
+            ],
+            "active": true
         },
         "8332": {
             "labels": [],
@@ -33460,8 +33664,10 @@
             "active": false
         },
         "8365": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E101b - DesLab (Lầu1)"
+            ],
+            "active": true
         },
         "8366": {
             "labels": [],
@@ -33560,8 +33766,10 @@
             "active": false
         },
         "8390": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang phải 2 Tòa F (Tầng 1)"
+            ],
+            "active": true
         },
         "8391": {
             "labels": [],
@@ -33788,8 +33996,10 @@
             "active": false
         },
         "8447": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 201a (Tòa E)"
+            ],
+            "active": true
         },
         "8448": {
             "labels": [],
@@ -33900,8 +34110,10 @@
             "active": false
         },
         "8475": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E102"
+            ],
+            "active": true
         },
         "8476": {
             "labels": [],
@@ -33932,8 +34144,10 @@
             "active": false
         },
         "8483": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa E302 (1)"
+            ],
+            "active": true
         },
         "8484": {
             "labels": [],
@@ -33960,8 +34174,10 @@
             "active": false
         },
         "8490": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang nhỏ xuống bãi xe (Tòa F)"
+            ],
+            "active": true
         },
         "8491": {
             "labels": [],
@@ -33976,8 +34192,10 @@
             "active": false
         },
         "8494": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng E104"
+            ],
+            "active": true
         },
         "8495": {
             "labels": [],
@@ -34028,8 +34246,10 @@
             "active": false
         },
         "8507": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng không tên D - cửa 2 (Lầu4)"
+            ],
+            "active": true
         },
         "8508": {
             "labels": [],
@@ -34096,8 +34316,10 @@
             "active": false
         },
         "8524": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang phải Tòa F (Tầng trệt)"
+            ],
+            "active": true
         },
         "8525": {
             "labels": [],
@@ -34576,8 +34798,10 @@
             "active": false
         },
         "8644": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F303 (Cửa 1)"
+            ],
+            "active": true
         },
         "8645": {
             "labels": [],
@@ -34656,8 +34880,10 @@
             "active": false
         },
         "8664": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng họp Khoa KHVL (Tòa F)"
+            ],
+            "active": true
         },
         "8665": {
             "labels": [],
@@ -34736,12 +34962,16 @@
             "active": false
         },
         "8684": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 203 (Tòa F - Cửa 1)"
+            ],
+            "active": true
         },
         "8685": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cầu thang y tế (Tòa E) - Lầu3"
+            ],
+            "active": true
         },
         "8686": {
             "labels": [],
@@ -34812,8 +35042,10 @@
             "active": false
         },
         "8703": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F200"
+            ],
+            "active": true
         },
         "8704": {
             "labels": [],
@@ -34860,8 +35092,10 @@
             "active": false
         },
         "8715": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng Hội đồng (Tòa F - IDK)"
+            ],
+            "active": true
         },
         "8716": {
             "labels": [],
@@ -35216,8 +35450,10 @@
             "active": false
         },
         "8804": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F210"
+            ],
+            "active": true
         },
         "8805": {
             "labels": [],
@@ -35312,8 +35548,10 @@
             "active": false
         },
         "8828": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Văn phòng Hội đồng trường (Tòa F)"
+            ],
+            "active": true
         },
         "8829": {
             "labels": [],
@@ -35428,8 +35666,10 @@
             "active": false
         },
         "8857": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 203 (Tòa F - Cửa 2)"
+            ],
+            "active": true
         },
         "8858": {
             "labels": [],
@@ -35584,8 +35824,10 @@
             "active": false
         },
         "8896": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Cửa không tên (Lầu2)"
+            ],
+            "active": true
         },
         "8897": {
             "labels": [],
@@ -35804,8 +36046,10 @@
             "active": false
         },
         "8951": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Giao điểm Tòa B (tại Tòa F)"
+            ],
+            "active": true
         },
         "8952": {
             "labels": [],
@@ -35904,8 +36148,10 @@
             "active": false
         },
         "8976": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 07 (Tòa F)"
+            ],
+            "active": true
         },
         "8977": {
             "labels": [],
@@ -36196,8 +36442,10 @@
             "active": false
         },
         "9049": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Văn phòng Khoa SH-CNSH (Tòa F)"
+            ],
+            "active": true
         },
         "9050": {
             "labels": [],
@@ -36476,8 +36724,10 @@
             "active": false
         },
         "9119": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Nhà vệ sinh nam cạnh cầu thang (Lầu4)"
+            ],
+            "active": true
         },
         "9120": {
             "labels": [],
@@ -36600,8 +36850,10 @@
             "active": false
         },
         "9150": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng họp F102 (Cửa 1)"
+            ],
+            "active": true
         },
         "9151": {
             "labels": [],
@@ -36716,8 +36968,10 @@
             "active": false
         },
         "9179": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng họp F102 (Cửa 2)"
+            ],
+            "active": true
         },
         "9180": {
             "labels": [],
@@ -36872,8 +37126,10 @@
             "active": false
         },
         "9218": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 206 (Tòa F)"
+            ],
+            "active": true
         },
         "9219": {
             "labels": [],
@@ -36928,8 +37184,10 @@
             "active": false
         },
         "9232": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F205b"
+            ],
+            "active": true
         },
         "9233": {
             "labels": [],
@@ -36992,8 +37250,10 @@
             "active": false
         },
         "9248": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Văn phòng Đoàn (Tòa F)"
+            ],
+            "active": true
         },
         "9249": {
             "labels": [],
@@ -37324,8 +37584,10 @@
             "active": false
         },
         "9331": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 04 (Tòa F)"
+            ],
+            "active": true
         },
         "9332": {
             "labels": [],
@@ -37564,8 +37826,10 @@
             "active": false
         },
         "9391": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng 202 (Tòa F - Cửa 1)"
+            ],
+            "active": true
         },
         "9392": {
             "labels": [],
@@ -38268,8 +38532,10 @@
             "active": false
         },
         "9567": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Bộ môn Điện tử (Lầu1)"
+            ],
+            "active": true
         },
         "9568": {
             "labels": [],
@@ -38404,8 +38670,10 @@
             "active": false
         },
         "9601": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "E305"
+            ],
+            "active": true
         },
         "9602": {
             "labels": [],
@@ -38640,8 +38908,10 @@
             "active": false
         },
         "9660": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Nhà vệ sinh nữ cạnh cầu thang (Lầu3)"
+            ],
+            "active": true
         },
         "9661": {
             "labels": [],
@@ -39496,8 +39766,10 @@
             "active": false
         },
         "9874": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Phòng F301"
+            ],
+            "active": true
         },
         "9875": {
             "labels": [],
@@ -39724,8 +39996,10 @@
             "active": false
         },
         "9931": {
-            "labels": [],
-            "active": false
+            "labels": [
+                "Văn phòng Đảng ủy (Tòa F)"
+            ],
+            "active": true
         },
         "9932": {
             "labels": [],
@@ -40004,5 +40278,666 @@
             "active": false
         }
     },
-    "edges": []
+    "edges": [
+        {
+            "from": "2230",
+            "to": "2426",
+            "weight": 4.0
+        },
+        {
+            "from": "2426",
+            "to": "5283",
+            "weight": 3.6
+        },
+        {
+            "from": "5283",
+            "to": "2502",
+            "weight": 4.0
+        },
+        {
+            "from": "2502",
+            "to": "3670",
+            "weight": 2.0
+        },
+        {
+            "from": "3670",
+            "to": "1171",
+            "weight": 6.0
+        },
+        {
+            "from": "1171",
+            "to": "9331",
+            "weight": 2.0
+        },
+        {
+            "from": "9331",
+            "to": "4215",
+            "weight": 2.2
+        },
+        {
+            "from": "4215",
+            "to": "8331",
+            "weight": 6.0
+        },
+        {
+            "from": "8331",
+            "to": "9049",
+            "weight": 3.0
+        },
+        {
+            "from": "9049",
+            "to": "8976",
+            "weight": 5.8
+        },
+        {
+            "from": "8976",
+            "to": "6221",
+            "weight": 6.4
+        },
+        {
+            "from": "6221",
+            "to": "5619",
+            "weight": 4.0
+        },
+        {
+            "from": "5619",
+            "to": "3200",
+            "weight": 6.0
+        },
+        {
+            "from": "3200",
+            "to": "2561",
+            "weight": 2.0
+        },
+        {
+            "from": "2561",
+            "to": "2809",
+            "weight": 6.0
+        },
+        {
+            "from": "2809",
+            "to": "3306",
+            "weight": 1.6
+        },
+        {
+            "from": "3306",
+            "to": "1034",
+            "weight": 6.0
+        },
+        {
+            "from": "1034",
+            "to": "8524",
+            "weight": 3.2
+        },
+        {
+            "from": "8524",
+            "to": "4534",
+            "weight": 2.0
+        },
+        {
+            "from": "4534",
+            "to": "7103",
+            "weight": 4.0
+        },
+        {
+            "from": "4534",
+            "to": "8490",
+            "weight": 7.0
+        },
+        {
+            "from": "4534",
+            "to": "5098",
+            "weight": 7.8
+        },
+        {
+            "from": "5098",
+            "to": "5218",
+            "weight": 7.6
+        },
+        {
+            "from": "5218",
+            "to": "7155",
+            "weight": 8.4
+        },
+        {
+            "from": "7155",
+            "to": "3422",
+            "weight": 3.2
+        },
+        {
+            "from": "3422",
+            "to": "857",
+            "weight": 3.0
+        },
+        {
+            "from": "3365",
+            "to": "1156",
+            "weight": 4.0
+        },
+        {
+            "from": "1156",
+            "to": "2539",
+            "weight": 5.8
+        },
+        {
+            "from": "2539",
+            "to": "6004",
+            "weight": 4.0
+        },
+        {
+            "from": "6004",
+            "to": "3405",
+            "weight": 2.0
+        },
+        {
+            "from": "3405",
+            "to": "3224",
+            "weight": 3.8
+        },
+        {
+            "from": "3224",
+            "to": "9150",
+            "weight": 4.4
+        },
+        {
+            "from": "9150",
+            "to": "9179",
+            "weight": 5.6
+        },
+        {
+            "from": "9179",
+            "to": "924",
+            "weight": 1.2
+        },
+        {
+            "from": "924",
+            "to": "5451",
+            "weight": 2.8
+        },
+        {
+            "from": "5451",
+            "to": "4529",
+            "weight": 6.0
+        },
+        {
+            "from": "4529",
+            "to": "3631",
+            "weight": 4.8
+        },
+        {
+            "from": "3631",
+            "to": "5981",
+            "weight": 4.0
+        },
+        {
+            "from": "5981",
+            "to": "9248",
+            "weight": 6.0
+        },
+        {
+            "from": "9248",
+            "to": "6867",
+            "weight": 4.0
+        },
+        {
+            "from": "6867",
+            "to": "1610",
+            "weight": 1.4
+        },
+        {
+            "from": "1610",
+            "to": "1721",
+            "weight": 5.8
+        },
+        {
+            "from": "1721",
+            "to": "7719",
+            "weight": 2.6
+        },
+        {
+            "from": "7719",
+            "to": "6538",
+            "weight": 2.2
+        },
+        {
+            "from": "6538",
+            "to": "6356",
+            "weight": 8.0
+        },
+        {
+            "from": "6356",
+            "to": "1272",
+            "weight": 8.0
+        },
+        {
+            "from": "1272",
+            "to": "8005",
+            "weight": 8.0
+        },
+        {
+            "from": "8005",
+            "to": "8664",
+            "weight": 4.2
+        },
+        {
+            "from": "8664",
+            "to": "2378",
+            "weight": 3.2
+        },
+        {
+            "from": "2378",
+            "to": "8390",
+            "weight": 3.6
+        },
+        {
+            "from": "3271",
+            "to": "3536",
+            "weight": 4.8
+        },
+        {
+            "from": "3536",
+            "to": "8703",
+            "weight": 7.2
+        },
+        {
+            "from": "8703",
+            "to": "9391",
+            "weight": 3.2
+        },
+        {
+            "from": "9391",
+            "to": "370",
+            "weight": 4.8
+        },
+        {
+            "from": "370",
+            "to": "8684",
+            "weight": 2.4
+        },
+        {
+            "from": "8684",
+            "to": "8857",
+            "weight": 9.6
+        },
+        {
+            "from": "8857",
+            "to": "8951",
+            "weight": 1.0
+        },
+        {
+            "from": "8951",
+            "to": "8715",
+            "weight": 4.8
+        },
+        {
+            "from": "8715",
+            "to": "4391",
+            "weight": 5.6
+        },
+        {
+            "from": "4391",
+            "to": "9931",
+            "weight": 5.6
+        },
+        {
+            "from": "9931",
+            "to": "8828",
+            "weight": 5.6
+        },
+        {
+            "from": "8828",
+            "to": "9232",
+            "weight": 2.4
+        },
+        {
+            "from": "9232",
+            "to": "8160",
+            "weight": 6.0
+        },
+        {
+            "from": "8160",
+            "to": "416",
+            "weight": 2.0
+        },
+        {
+            "from": "416",
+            "to": "9218",
+            "weight": 6.4
+        },
+        {
+            "from": "9218",
+            "to": "563",
+            "weight": 2.4
+        },
+        {
+            "from": "563",
+            "to": "5766",
+            "weight": 3.2
+        },
+        {
+            "from": "5766",
+            "to": "5602",
+            "weight": 7.2
+        },
+        {
+            "from": "5602",
+            "to": "394",
+            "weight": 8.4
+        },
+        {
+            "from": "394",
+            "to": "8804",
+            "weight": 8.0
+        },
+        {
+            "from": "8804",
+            "to": "3496",
+            "weight": 6.0
+        },
+        {
+            "from": "7564",
+            "to": "9874",
+            "weight": 1.6
+        },
+        {
+            "from": "9874",
+            "to": "5088",
+            "weight": 2.4
+        },
+        {
+            "from": "5088",
+            "to": "7570",
+            "weight": 8.0
+        },
+        {
+            "from": "7570",
+            "to": "8644",
+            "weight": 4.8
+        },
+        {
+            "from": "8644",
+            "to": "1350",
+            "weight": 6.4
+        },
+        {
+            "from": "1350",
+            "to": "3446",
+            "weight": 2.0
+        },
+        {
+            "from": "3446",
+            "to": "4809",
+            "weight": 6.0
+        },
+        {
+            "from": "4809",
+            "to": "90",
+            "weight": 2.0
+        },
+        {
+            "from": "90",
+            "to": "3704",
+            "weight": 6.0
+        },
+        {
+            "from": "3704",
+            "to": "5182",
+            "weight": 1.6
+        },
+        {
+            "from": "2990",
+            "to": "4294",
+            "weight": 0
+        },
+        {
+            "from": "4294",
+            "to": "7719",
+            "weight": 0.5
+        },
+        {
+            "from": "7719",
+            "to": "8365",
+            "weight": 3.0
+        },
+        {
+            "from": "8365",
+            "to": "7369",
+            "weight": 3.0
+        },
+        {
+            "from": "7369",
+            "to": "8475",
+            "weight": 6.6
+        },
+        {
+            "from": "8475",
+            "to": "5759",
+            "weight": 2.85
+        },
+        {
+            "from": "5759",
+            "to": "3065",
+            "weight": 4.8
+        },
+        {
+            "from": "3065",
+            "to": "8494",
+            "weight": 2.4
+        },
+        {
+            "from": "8494",
+            "to": "4545",
+            "weight": 6.0
+        },
+        {
+            "from": "4545",
+            "to": "9567",
+            "weight": 1.8
+        },
+        {
+            "from": "9567",
+            "to": "2758",
+            "weight": 6.0
+        },
+        {
+            "from": "2758",
+            "to": "5494",
+            "weight": 2.85
+        },
+        {
+            "from": "5494",
+            "to": "5338",
+            "weight": 3.0
+        },
+        {
+            "from": "3437",
+            "to": "7458",
+            "weight": 0
+        },
+        {
+            "from": "7458",
+            "to": "8447",
+            "weight": 0.5
+        },
+        {
+            "from": "8447",
+            "to": "2014",
+            "weight": 3.0
+        },
+        {
+            "from": "2014",
+            "to": "563",
+            "weight": 6.6
+        },
+        {
+            "from": "563",
+            "to": "6446",
+            "weight": 3.0
+        },
+        {
+            "from": "6446",
+            "to": "7270",
+            "weight": 3.0
+        },
+        {
+            "from": "7270",
+            "to": "95",
+            "weight": 6.6
+        },
+        {
+            "from": "95",
+            "to": "5985",
+            "weight": 1.8
+        },
+        {
+            "from": "5985",
+            "to": "8896",
+            "weight": 6.0
+        },
+        {
+            "from": "8896",
+            "to": "1932",
+            "weight": 1.8
+        },
+        {
+            "from": "1932",
+            "to": "7477",
+            "weight": 6.0
+        },
+        {
+            "from": "7477",
+            "to": "5163",
+            "weight": 2.85
+        },
+        {
+            "from": "5163",
+            "to": "373",
+            "weight": 3.0
+        },
+        {
+            "from": "8685",
+            "to": "9660",
+            "weight": 0
+        },
+        {
+            "from": "9660",
+            "to": "3946",
+            "weight": 0.5
+        },
+        {
+            "from": "3946",
+            "to": "3717",
+            "weight": 3.2
+        },
+        {
+            "from": "3717",
+            "to": "5182",
+            "weight": 6.0
+        },
+        {
+            "from": "5182",
+            "to": "8483",
+            "weight": 2.4
+        },
+        {
+            "from": "8483",
+            "to": "1261",
+            "weight": 2.4
+        },
+        {
+            "from": "1261",
+            "to": "4622",
+            "weight": 6.4
+        },
+        {
+            "from": "4622",
+            "to": "589",
+            "weight": 2.0
+        },
+        {
+            "from": "589",
+            "to": "1380",
+            "weight": 6.4
+        },
+        {
+            "from": "1380",
+            "to": "150",
+            "weight": 1.6
+        },
+        {
+            "from": "150",
+            "to": "4624",
+            "weight": 6.4
+        },
+        {
+            "from": "4624",
+            "to": "1348",
+            "weight": 2.4
+        },
+        {
+            "from": "1348",
+            "to": "9601",
+            "weight": 3.2
+        },
+        {
+            "from": "6284",
+            "to": "9119",
+            "weight": 0
+        },
+        {
+            "from": "9119",
+            "to": "6383",
+            "weight": 0.5
+        },
+        {
+            "from": "6383",
+            "to": "5136",
+            "weight": 3.2
+        },
+        {
+            "from": "5136",
+            "to": "2130",
+            "weight": 6.4
+        },
+        {
+            "from": "2130",
+            "to": "1359",
+            "weight": 2.4
+        },
+        {
+            "from": "1359",
+            "to": "8299",
+            "weight": 6.0
+        },
+        {
+            "from": "8299",
+            "to": "6320",
+            "weight": 2.0
+        },
+        {
+            "from": "6320",
+            "to": "1613",
+            "weight": 6.4
+        },
+        {
+            "from": "1613",
+            "to": "5733",
+            "weight": 2.0
+        },
+        {
+            "from": "5733",
+            "to": "3808",
+            "weight": 6.4
+        },
+        {
+            "from": "3808",
+            "to": "2562",
+            "weight": 2.4
+        },
+        {
+            "from": "2562",
+            "to": "8507",
+            "weight": 3.2
+        }
+    ]
 }

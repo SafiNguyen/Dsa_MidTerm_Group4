@@ -1,6 +1,6 @@
 import json
 
-def init_fixed_database(filename="Database/graph_db.json"):
+def init_fixed_database(filename="./graph_db.json"):
     # Tạo 10,000 nút trống với ID từ 1 đến 10,000
     nodes = {str(i): {"labels": [], "active": False} for i in range(1, 10001)}
     
