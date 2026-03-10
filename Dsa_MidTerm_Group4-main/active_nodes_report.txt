@@ -1,0 +1,140 @@
+--- BÁO CÁO CÁC NÚT ĐANG HOẠT ĐỘNG (ACTIVE) ---
+Tổng cộng: 137 nút.
+--------------------------------------------------
+ID: 90     | Labels: Phòng F305 (Cửa 1)
+ID: 95     | Labels: Cửa 1 phòng E203
+ID: 150    | Labels: Bộ môn Vật lý - Tin học (Lầu3)
+ID: 370    | Labels: Phòng 202 (Tòa F - Cửa 2)
+ID: 373    | Labels: Phòng E206
+ID: 394    | Labels: Phòng 209 (Tòa F - Phòng máy)
+ID: 416    | Labels: Phòng F206a
+ID: 563    | Labels: Cầu thang phải (Tầng 2) & Giao điểm Tòa E
+ID: 589    | Labels: E303a
+ID: 857    | Labels: Phòng 18 (Tòa F)
+ID: 924    | Labels: Restroom GV/Khách (Tòa F - T1)
+ID: 1034   | Labels: Phòng 13 (Tòa F)
+ID: 1156   | Labels: Nhà vệ sinh nam Tòa F (Tầng 1)
+ID: 1171   | Labels: Bộ môn Di truyền (Tòa F)
+ID: 1261   | Labels: Cửa E302 (2)
+ID: 1272   | Labels: Phòng 111 (Tòa F)
+ID: 1348   | Labels: Phòng không tên (Lầu3)
+ID: 1350   | Labels: Phòng F303 (Cửa 2)
+ID: 1359   | Labels: E402 (2)
+ID: 1380   | Labels: E304
+ID: 1610   | Labels: Văn phòng Hội đoàn (Tòa F)
+ID: 1613   | Labels: E404 (1)
+ID: 1721   | Labels: Phòng không tên (Tòa F - T1)
+ID: 1932   | Labels: Cửa E204
+ID: 2014   | Labels: Phòng 201b (Tòa E)
+ID: 2130   | Labels: E402 (1)
+ID: 2230   | Labels: Cầu thang trái Tòa F (Tầng trệt)
+ID: 2378   | Labels: Văn phòng Khoa KHVL (Tòa F)
+ID: 2426   | Labels: Nhà vệ sinh nữ Tòa F (Tầng trệt 1)
+ID: 2502   | Labels: Phòng Thông tin - Truyền thông (Tòa F)
+ID: 2539   | Labels: Phòng 100 (Tòa F)
+ID: 2561   | Labels: Phòng không tên (Tòa F - Tầng trệt)
+ID: 2562   | Labels: Phòng không tên C (Lầu4)
+ID: 2758   | Labels: Cầu thang 2 (Lầu1)
+ID: 2809   | Labels: Phòng mất nhãn (Tòa F - Tầng trệt)
+ID: 2990   | Labels: Cầu thang y tế (Tòa E)
+ID: 3065   | Labels: Phòng E103b
+ID: 3200   | Labels: Phòng 09 (Tòa F - Phải - Tầng trệt)
+ID: 3224   | Labels: Phòng 101b (Tòa F)
+ID: 3271   | Labels: Cầu thang trái Tòa F (Tầng 2)
+ID: 3306   | Labels: Phòng 12 (Tòa F)
+ID: 3365   | Labels: Cầu thang trái Tòa F (Tầng 1)
+ID: 3405   | Labels: Phòng 101a (Tòa F)
+ID: 3422   | Labels: Nhà vệ sinh nam Tòa F (Tầng trệt - Phải)
+ID: 3437   | Labels: Cầu thang y tế (Tòa E) - Lầu2
+ID: 3446   | Labels: Phòng F304 (Cửa 1)
+ID: 3496   | Labels: Cầu thang phải 2 Tòa F (Tầng 2)
+ID: 3536   | Labels: Phòng đọc Khoa MTR (Tòa F)
+ID: 3631   | Labels: Phòng F.105
+ID: 3670   | Labels: Phòng 03 (Tòa F)
+ID: 3704   | Labels: Phòng F305 (Cửa 2)
+ID: 3717   | Labels: Cửa E301 (2)
+ID: 3808   | Labels: Cầu thang 2 (Lầu4)
+ID: 3946   | Labels: Cửa E301 (1)
+ID: 4215   | Labels: Phòng 09 (Tòa F - Tầng trệt)
+ID: 4294   | Labels: Nhà vệ sinh nữ cạnh cầu thang y tế (Lầu1)
+ID: 4391   | Labels: Cầu thang trung tâm Tòa F (Tầng 2)
+ID: 4529   | Labels: Cầu thang trung tâm Tòa F (Tầng 1)
+ID: 4534   | Labels: Phòng 14 (Tòa F)
+ID: 4545   | Labels: Phòng Thí nghiệm Điện tử (Lầu1)
+ID: 4622   | Labels: E303b
+ID: 4624   | Labels: Cầu thang 2 (Lầu3)
+ID: 4809   | Labels: Phòng F304 (Cửa 2)
+ID: 5088   | Labels: Phòng GV F302
+ID: 5098   | Labels: Phòng 15 (Tòa F)
+ID: 5136   | Labels: Phòng không tên B - cửa 2 (Lầu4)
+ID: 5163   | Labels: Phòng E205
+ID: 5182   | Labels: Giao điểm Tòa E (Lầu 3)
+ID: 5218   | Labels: Phòng 16 (Tòa F)
+ID: 5283   | Labels: Phòng Tổ chức - Hành chính (Tòa F)
+ID: 5338   | Labels: Phòng E107
+ID: 5451   | Labels: Phòng 103 (Tòa F)
+ID: 5494   | Labels: Phòng E106
+ID: 5602   | Labels: Phòng 208 (Tòa F - Phòng máy Toán Tin)
+ID: 5619   | Labels: Phòng 08 (Tòa F)
+ID: 5733   | Labels: E404 (2)
+ID: 5759   | Labels: Phòng E103a
+ID: 5766   | Labels: Phòng 207 (Tòa F)
+ID: 5981   | Labels: Phòng 106a (Tòa F)
+ID: 5985   | Labels: Cửa 2 phòng E203
+ID: 6004   | Labels: Phòng 101 (Tòa F)
+ID: 6221   | Labels: Cầu thang trung tâm & Giảng đường (Tòa F - Trệt)
+ID: 6284   | Labels: Cầu thang y tế (Tòa E) - Lầu4
+ID: 6320   | Labels: E403 (2)
+ID: 6356   | Labels: Phòng 110 (Tòa F)
+ID: 6383   | Labels: Phòng không tên A (Lầu4)
+ID: 6446   | Labels: Phòng 202b (Tòa E)
+ID: 6538   | Labels: Phòng 109 (Tòa F)
+ID: 6867   | Labels: Văn phòng Tiếp dân & TTPCH (Tòa F)
+ID: 7103   | Labels: Phòng KH & CN (Tòa F)
+ID: 7155   | Labels: Phòng 17 (Tòa F)
+ID: 7270   | Labels: Phòng 202a (Tòa E)
+ID: 7369   | Labels: Phòng E101a - Phòng họp (Lầu1)
+ID: 7458   | Labels: Nhà vệ sinh nam cạnh cầu thang (Lầu2)
+ID: 7477   | Labels: Cầu thang 2 (Lầu2)
+ID: 7564   | Labels: Phòng 300 (Tòa F)
+ID: 7570   | Labels: Cầu thang trung tâm Tòa F (Tầng 3)
+ID: 7719   | Labels: Cầu thang phải (Tầng 1) & Giao điểm Tòa E
+ID: 8005   | Labels: Phòng 112 (Tòa F)
+ID: 8160   | Labels: Phòng không tên (Tòa F - T2)
+ID: 8299   | Labels: E403 (1)
+ID: 8331   | Labels: Cửa không nhãn (Tòa F - Tầng trệt)
+ID: 8365   | Labels: Phòng E101b - DesLab (Lầu1)
+ID: 8390   | Labels: Cầu thang phải 2 Tòa F (Tầng 1)
+ID: 8447   | Labels: Phòng 201a (Tòa E)
+ID: 8475   | Labels: Phòng E102
+ID: 8483   | Labels: Cửa E302 (1)
+ID: 8490   | Labels: Cầu thang nhỏ xuống bãi xe (Tòa F)
+ID: 8494   | Labels: Phòng E104
+ID: 8507   | Labels: Phòng không tên D - cửa 2 (Lầu4)
+ID: 8524   | Labels: Cầu thang phải Tòa F (Tầng trệt)
+ID: 8644   | Labels: Phòng F303 (Cửa 1)
+ID: 8664   | Labels: Phòng họp Khoa KHVL (Tòa F)
+ID: 8684   | Labels: Phòng 203 (Tòa F - Cửa 1)
+ID: 8685   | Labels: Cầu thang y tế (Tòa E) - Lầu3
+ID: 8703   | Labels: Phòng F200
+ID: 8715   | Labels: Phòng Hội đồng (Tòa F - IDK)
+ID: 8804   | Labels: Phòng F210
+ID: 8828   | Labels: Văn phòng Hội đồng trường (Tòa F)
+ID: 8857   | Labels: Phòng 203 (Tòa F - Cửa 2)
+ID: 8896   | Labels: Cửa không tên (Lầu2)
+ID: 8951   | Labels: Giao điểm Tòa B (tại Tòa F)
+ID: 8976   | Labels: Phòng 07 (Tòa F)
+ID: 9049   | Labels: Văn phòng Khoa SH-CNSH (Tòa F)
+ID: 9119   | Labels: Nhà vệ sinh nam cạnh cầu thang (Lầu4)
+ID: 9150   | Labels: Phòng họp F102 (Cửa 1)
+ID: 9179   | Labels: Phòng họp F102 (Cửa 2)
+ID: 9218   | Labels: Phòng 206 (Tòa F)
+ID: 9232   | Labels: Phòng F205b
+ID: 9248   | Labels: Văn phòng Đoàn (Tòa F)
+ID: 9331   | Labels: Phòng 04 (Tòa F)
+ID: 9391   | Labels: Phòng 202 (Tòa F - Cửa 1)
+ID: 9567   | Labels: Bộ môn Điện tử (Lầu1)
+ID: 9601   | Labels: E305
+ID: 9660   | Labels: Nhà vệ sinh nữ cạnh cầu thang (Lầu3)
+ID: 9874   | Labels: Phòng F301
+ID: 9931   | Labels: Văn phòng Đảng ủy (Tòa F)
