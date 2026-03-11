@@ -49,7 +49,9 @@ def add_node_linear_probing(data):
             # Nhập thêm các nhãn khác nếu có
             while True:
                 extra = input(f"   Thêm nhãn phụ cho ID {found_id} (hoặc 'None'): ").strip()
-                if extra.lower() == 'none': break
+                if extra.lower() == 'none' or extra == '-': 
+                    print(f" ❌Kết thúc nhập nhãn cho ID {found_id}.")
+                    break
                 data["nodes"][found_id]["labels"].append(extra)
         else:
             print("🛑 Database đã đầy, không thể thêm nút mới!")
@@ -58,10 +60,10 @@ def add_edges(data):
     print("\n--- THÊM CẠNH CÓ TRỌNG SỐ ---")
     while True:
         u = input("ID nút nguồn (From): ").strip()
-        if u.lower() == 'none': break
+        if u.lower() == 'none' or u == '-': break
         v = input("ID nút đích (To): ").strip()
-        if v.lower() == 'none': break
-        
+        if v.lower() == 'none' or v == '-': break
+
         # Kiểm tra ID tồn tại và đã được kích hoạt chưa
         if u in data["nodes"] and v in data["nodes"]:
             if data["nodes"][u]["active"] and data["nodes"][v]["active"]:
