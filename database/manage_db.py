@@ -2,7 +2,7 @@ import json
 import os
 import hashlib
 
-DB_FILE = "database/graph_db.json"
+DB_FILE = "./graph_db.json"
 MAX_SLOTS = 10000
 
 def get_base_id(label):
