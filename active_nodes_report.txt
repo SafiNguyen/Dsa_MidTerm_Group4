@@ -1,38 +1,53 @@
 --- BÁO CÁO CÁC NÚT ĐANG HOẠT ĐỘNG (ACTIVE) ---
-Tổng cộng: 210 nút.
+Tổng cộng: 294 nút.
 --------------------------------------------------
 ID: 72     | Labels: B.42
 ID: 90     | Labels: Phòng F305 (Cửa 1)
 ID: 95     | Labels: Cửa 1 phòng E203
 ID: 150    | Labels: Bộ môn Vật lý - Tin học (Lầu3)
 ID: 172    | Labels: B.40A
+ID: 226    | Labels: I.53, K-Công nghệ thông tin
+ID: 348    | Labels: cầu thang
 ID: 370    | Labels: Phòng 202 (Tòa F - Cửa 2)
 ID: 373    | Labels: Phòng E206
 ID: 376    | Labels: Cuối cầu thang bên trái tòa B tầng trệt
 ID: 394    | Labels: Phòng 209 (Tòa F - Phòng máy)
 ID: 416    | Labels: Phòng F206a
+ID: 417    | Labels: I.87A, Phòng thí nghiệm hệ thống di động & media
 ID: 420    | Labels: Phòng bộ môn hóa phân tích B.27
 ID: 447    | Labels: B.11A
+ID: 547    | Labels: hội trường I
 ID: 563    | Labels: Cầu thang phải (Tầng 2) & Giao điểm Tòa E
 ID: 565    | Labels: H2.2
 ID: 589    | Labels: E303a
+ID: 621    | Labels: I.63, bộ môn công nghệ tri thức
+ID: 634    | Labels: I.34
+ID: 659    | Labels: I.72, phòng truyền thông đa phương tiện
+ID: 683    | Labels: I.87, Phòng thí nghiệm công nghệ phần mềm
+ID: 778    | Labels: I.42
 ID: 812    | Labels: Đầu cầu thang bên trái tòa B tầng 2
 ID: 857    | Labels: Phòng 18 (Tòa F)
+ID: 859    | Labels: cúp
 ID: 874    | Labels: Cuối cầu thang bên phải tòa B tầng 1
 ID: 924    | Labels: Restroom GV/Khách (Tòa F - T1)
 ID: 956    | Labels: Cuối cầu thang bên trái tòa B tầng 2
+ID: 999    | Labels: I.58, BM. Hóa Lý PTN. Hóa lý hữu cơ
 ID: 1034   | Labels: Phòng 13 (Tòa F)
 ID: 1067   | Labels: Cuối bãi đổ xe sau
+ID: 1070   | Labels: I.33
+ID: 1118   | Labels: I.56, Khoa hóa PTN Hóa lý ứng dụng
 ID: 1147   | Labels: Đầu cầu thang bên phải tòa B tầng 2
 ID: 1156   | Labels: Nhà vệ sinh nam Tòa F (Tầng 1)
 ID: 1171   | Labels: Bộ môn Di truyền (Tòa F)
 ID: 1261   | Labels: Cửa E302 (2)
+ID: 1266   | Labels: I.67, BM. Hóa lý PTN. Hóa lý thuyết
 ID: 1272   | Labels: Phòng 111 (Tòa F)
 ID: 1348   | Labels: Phòng không tên (Lầu3)
 ID: 1350   | Labels: Phòng F303 (Cửa 2)
 ID: 1359   | Labels: E402 (2)
 ID: 1380   | Labels: E304
 ID: 1381   | Labels: Phòng phó hiệu trưởng B.11B
+ID: 1382   | Labels: I.37, văn phòng bộ môn
 ID: 1451   | Labels: Đầu cầu thang bên trái tòa B tầng 1
 ID: 1610   | Labels: Văn phòng Hội đoàn (Tòa F)
 ID: 1613   | Labels: E404 (1)
@@ -41,30 +56,43 @@ ID: 1721   | Labels: Phòng không tên (Tòa F - T1)
 ID: 1829   | Labels: Khu tự học UEH
 ID: 1873   | Labels: Phòng kế hoạch - tài chính
 ID: 1932   | Labels: Cửa E204
+ID: 1933   | Labels: I.57, BM. Hóa Lý PTN. Hóa nano
 ID: 2001   | Labels: B.14
 ID: 2014   | Labels: Phòng 201b (Tòa E)
+ID: 2053   | Labels: I.52, Phòng máy tính
 ID: 2130   | Labels: E402 (1)
 ID: 2161   | Labels: B.40B
 ID: 2230   | Labels: Cầu thang trái Tòa F (Tầng trệt)
 ID: 2265   | Labels: Giữa bãi xe sau
+ID: 2349   | Labels: 11G, maker space
+ID: 2354   | Labels: I.82, công nghệ phần mềm
+ID: 2368   | Labels: thang máy
 ID: 2378   | Labels: Văn phòng Khoa KHVL (Tòa F)
 ID: 2426   | Labels: Nhà vệ sinh nữ Tòa F (Tầng trệt 1)
+ID: 2470   | Labels: I.74, Mạng máy tính và viễn thông
 ID: 2496   | Labels: B.44
 ID: 2502   | Labels: Phòng Thông tin - Truyền thông (Tòa F)
+ID: 2505   | Labels: I.79A
+ID: 2528   | Labels: I.55, Phòng họp
 ID: 2539   | Labels: Phòng 100 (Tòa F)
 ID: 2561   | Labels: Phòng không tên (Tòa F - Tầng trệt)
 ID: 2562   | Labels: Phòng không tên C (Lầu4)
 ID: 2606   | Labels: B.37
+ID: 2627   | Labels: I.12
 ID: 2696   | Labels: Phòng thí nghiệm hóa xúc tác
 ID: 2758   | Labels: Cầu thang 2 (Lầu1)
 ID: 2809   | Labels: Phòng mất nhãn (Tòa F - Tầng trệt)
 ID: 2841   | Labels: Phòng bộ môn vật lý địa cầu
+ID: 2853   | Labels: I.23
 ID: 2883   | Labels: Đầu cầu thang bên phải tòa B tầng trệt
 ID: 2917   | Labels: Đầu cầu thang bên phải tòa B tầng 3
 ID: 2990   | Labels: Cầu thang y tế (Tòa E)
+ID: 3000   | Labels: I.31
 ID: 3017   | Labels: Đầu cầu thang bên trái tòa B tầng 3
 ID: 3065   | Labels: Phòng E103b
 ID: 3135   | Labels: Phòng bộ môn vi sinh
+ID: 3137   | Labels: I.46, khoa hóa học PTN hóa dược
+ID: 3163   | Labels: I.43, Văn phòng các chương trình đào tạo đặc biệt ngành công nghệ thông tin
 ID: 3200   | Labels: Phòng 09 (Tòa F - Phải - Tầng trệt)
 ID: 3224   | Labels: Phòng 101b (Tòa F)
 ID: 3251   | Labels: Phòng tổ chức - hành chính
@@ -77,31 +105,45 @@ ID: 3395   | Labels: Căn tin UEH
 ID: 3405   | Labels: Phòng 101a (Tòa F)
 ID: 3422   | Labels: Nhà vệ sinh nam Tòa F (Tầng trệt - Phải)
 ID: 3437   | Labels: Cầu thang y tế (Tòa E) - Lầu2
+ID: 3445   | Labels: I.24
 ID: 3446   | Labels: Phòng F304 (Cửa 1)
 ID: 3496   | Labels: Cầu thang phải 2 Tòa F (Tầng 2)
 ID: 3519   | Labels: Trung tâm sáng tạo khoa học kỹ thuật B.30
 ID: 3536   | Labels: Phòng đọc Khoa MTR (Tòa F)
 ID: 3631   | Labels: Phòng F.105
 ID: 3646   | Labels: Văn phòng chuyên san khoa học tự nhiên
+ID: 3669   | Labels: không gian truyền thống
 ID: 3670   | Labels: Phòng 03 (Tòa F)
 ID: 3704   | Labels: Phòng F305 (Cửa 2)
 ID: 3717   | Labels: Cửa E301 (2)
+ID: 3735   | Labels: I/36, I.36, BM. hóa vô cơ & ứng dụng PTN. hóa vô cơ chuyên ngành
 ID: 3770   | Labels: Cuối cầu thang bên phải tòa B tầng trệt
 ID: 3808   | Labels: Cầu thang 2 (Lầu4)
+ID: 3884   | Labels: Thư viện tầng 9
+ID: 3942   | Labels: I.79
 ID: 3946   | Labels: Cửa E301 (1)
 ID: 4032   | Labels: Đầu cầu thang bên trái tòa B
 ID: 4215   | Labels: Phòng 09 (Tòa F - Tầng trệt)
 ID: 4230   | Labels: Phòng bộ môn hải dương - khí tượng - thuỷ văn B.32
+ID: 4231   | Labels: I.59, Khoa hóa học BM. Hóa dược
 ID: 4294   | Labels: Nhà vệ sinh nữ cạnh cầu thang y tế (Lầu1)
+ID: 4335   | Labels: I.59B, Văn phòng khoa
 ID: 4391   | Labels: Cầu thang trung tâm Tòa F (Tầng 2)
+ID: 4510   | Labels: I.65, PTN. Polyme 1
 ID: 4529   | Labels: Cầu thang trung tâm Tòa F (Tầng 1)
 ID: 4534   | Labels: Phòng 14 (Tòa F)
 ID: 4545   | Labels: Phòng Thí nghiệm Điện tử (Lầu1)
 ID: 4622   | Labels: E303b
 ID: 4624   | Labels: Cầu thang 2 (Lầu3)
 ID: 4631   | Labels: Phòng khảo thí và đảm bảo chất lượng
+ID: 4768   | Labels: I.48, BM. Hóa phân tích
 ID: 4809   | Labels: Phòng F304 (Cửa 2)
+ID: 4874   | Labels: I.38, Phòng hội thảo
+ID: 5029   | Labels: I.35, BM. hóa vô cơ & ứng dụng PTN. hóa vô cơ chuyên ngành
+ID: 5030   | Labels: I.35
+ID: 5052   | Labels: I.44
 ID: 5053   | Labels: Phòng khoa học và công nghệ
+ID: 5086   | Labels: I.78
 ID: 5088   | Labels: Phòng GV F302
 ID: 5098   | Labels: Phòng 15 (Tòa F)
 ID: 5136   | Labels: Phòng không tên B - cửa 2 (Lầu4)
@@ -115,23 +157,33 @@ ID: 5218   | Labels: Phòng 16 (Tòa F)
 ID: 5233   | Labels: H2.3
 ID: 5283   | Labels: Phòng Tổ chức - Hành chính (Tòa F)
 ID: 5304   | Labels: Phòng thí nghiệm hóa phân tích chuyên ngành B.28
+ID: 5329   | Labels: I.64, phòng thí nghiệm trí tuệ nhân tạo
 ID: 5337   | Labels: Văn phòng hiệu trưởng
 ID: 5338   | Labels: Phòng E107
 ID: 5376   | Labels: Phòng bộ môn hải dương - khí tượng - thuỷ văn B.35
+ID: 5426   | Labels: I.76, Phòng họp sinh viên
+ID: 5446   | Labels: 11C
 ID: 5451   | Labels: Phòng 103 (Tòa F)
+ID: 5472   | Labels: I.54, Văn phòng khoa
 ID: 5494   | Labels: Phòng E106
 ID: 5569   | Labels: Cuối cầu thang bên phải tòa B tầng 3
+ID: 5579   | Labels: I.32
 ID: 5602   | Labels: Phòng 208 (Tòa F - Phòng máy Toán Tin)
 ID: 5619   | Labels: Phòng 08 (Tòa F)
 ID: 5661   | Labels: B.22
+ID: 5693   | Labels: -
 ID: 5712   | Labels: Cuối cầu thang bên phải tòa B tầng 2
 ID: 5733   | Labels: E404 (2)
 ID: 5759   | Labels: Phòng E103a
 ID: 5766   | Labels: Phòng 207 (Tòa F)
+ID: 5799   | Labels: I.81, Bộ môn khoa học máy tính
+ID: 5802   | Labels: I.69A, Văn phòng bộ môn hóa
 ID: 5888   | Labels: Phòng bộ môn vật lí địa cầu
+ID: 5969   | Labels: sảnh khu I
 ID: 5981   | Labels: Phòng 106a (Tòa F)
 ID: 5985   | Labels: Cửa 2 phòng E203
 ID: 6004   | Labels: Phòng 101 (Tòa F)
+ID: 6058   | Labels: I.11
 ID: 6070   | Labels: B.43
 ID: 6134   | Labels: Phòng thí nghiệm sinh môi
 ID: 6221   | Labels: Cầu thang trung tâm & Giảng đường (Tòa F - Trệt)
@@ -140,33 +192,55 @@ ID: 6320   | Labels: E403 (2)
 ID: 6356   | Labels: Phòng 110 (Tòa F)
 ID: 6383   | Labels: Phòng không tên A (Lầu4)
 ID: 6446   | Labels: Phòng 202b (Tòa E)
+ID: 6536   | Labels: I.73, Bộ môn thị giác máy tính Điều khiển học thông minh
 ID: 6538   | Labels: Phòng 109 (Tòa F)
+ID: 6572   | Labels: I.77, phòng thí nghiệm hóa tin
+ID: 6655   | Labels: 11E
 ID: 6681   | Labels: Phòng thí nghiệm công nghệ sinh học phân tử A
+ID: 6704   | Labels: 11A
 ID: 6770   | Labels: Phòng bộ môn hải dương - khí tượng - thuỷ văn B.33
+ID: 6814   | Labels: 11F
+ID: 6862   | Labels: I.66, BM. Hóa lý PTN. Hóa lý thuyết
 ID: 6867   | Labels: Văn phòng Tiếp dân & TTPCH (Tòa F)
+ID: 6922   | Labels: nơi nhận luận văn
 ID: 7043   | Labels: H2.1
 ID: 7059   | Labels: Văn phòng trung tâm sáng tạo khoa học kỹ thuật B.31
 ID: 7103   | Labels: Phòng KH & CN (Tòa F)
 ID: 7155   | Labels: Phòng 17 (Tòa F)
 ID: 7270   | Labels: Phòng 202a (Tòa E)
+ID: 7352   | Labels: Phòng thông tin - truyền thông
+ID: 7353   | Labels: 11G1
 ID: 7369   | Labels: Phòng E101a - Phòng họp (Lầu1)
+ID: 7385   | Labels: I.84, Bộ môn hệ thống thông tin
+ID: 7403   | Labels: Itec
 ID: 7458   | Labels: Nhà vệ sinh nam cạnh cầu thang (Lầu2)
 ID: 7477   | Labels: Cầu thang 2 (Lầu2)
+ID: 7480   | Labels: I.62, phòng máy tính
 ID: 7564   | Labels: Phòng 300 (Tòa F)
 ID: 7570   | Labels: Cầu thang trung tâm Tòa F (Tầng 3)
+ID: 7664   | Labels: I.59A, Phòng hội thảo
 ID: 7719   | Labels: Cầu thang phải (Tầng 1) & Giao điểm Tòa E
 ID: 7738   | Labels: Đầu cầu thang khu H
+ID: 7827   | Labels: I.25, BM. hóa vô cơ & ứng dụng phòng nghiên cứu
+ID: 7829   | Labels: I.26
+ID: 7890   | Labels: I.69, PTN. Polyme 2
 ID: 8005   | Labels: Phòng 112 (Tòa F)
+ID: 8045   | Labels: I.71, Phòng máy tính
+ID: 8046   | Labels: I.27, BM. hóa vô cơ & ứng dụng
 ID: 8140   | Labels: Phòng thí nghiệm hóa phân tích chuyên ngành B.26
 ID: 8160   | Labels: Phòng không tên (Tòa F - T2)
 ID: 8192   | Labels: Phòng thông tin truyền thông
+ID: 8294   | Labels: 11D
 ID: 8299   | Labels: E403 (1)
 ID: 8317   | Labels: Nhà vệ sinh nữ tòa B tầng 2
 ID: 8331   | Labels: Cửa không nhãn (Tòa F - Tầng trệt)
+ID: 8348   | Labels: innovation space
+ID: 8354   | Labels: 11B
 ID: 8365   | Labels: Phòng E101b - DesLab (Lầu1)
 ID: 8390   | Labels: Cầu thang phải 2 Tòa F (Tầng 1)
 ID: 8422   | Labels: Cầu thang khu H
 ID: 8447   | Labels: Phòng 201a (Tòa E)
+ID: 8456   | Labels: Tòa I, khu I, I
 ID: 8475   | Labels: Phòng E102
 ID: 8483   | Labels: Cửa E302 (1)
 ID: 8490   | Labels: Cầu thang nhỏ xuống bãi xe (Tòa F)
@@ -182,16 +256,22 @@ ID: 8684   | Labels: Phòng 203 (Tòa F - Cửa 1)
 ID: 8685   | Labels: Cầu thang y tế (Tòa E) - Lầu3
 ID: 8703   | Labels: Phòng F200
 ID: 8715   | Labels: Phòng Hội đồng (Tòa F - IDK)
+ID: 8746   | Labels: Thư viện tầng 10
 ID: 8757   | Labels: Phòng bộ môn vật lý lý thuyết số
+ID: 8762   | Labels: I.86, Phòng thí nghiệm hệ thống nhúng, club robotics-iot
 ID: 8804   | Labels: Phòng F210
 ID: 8812   | Labels: Đầu cầu thang bên trái tòa B tầng trệt
 ID: 8828   | Labels: Văn phòng Hội đồng trường (Tòa F)
 ID: 8857   | Labels: Phòng 203 (Tòa F - Cửa 2)
 ID: 8896   | Labels: Cửa không tên (Lầu2)
+ID: 8913   | Labels: I.41, APCS, APCS-401
+ID: 8937   | Labels: I.68, BM. Hóa lý PTN. điện hóa
 ID: 8951   | Labels: Giao điểm Tòa B (tại Tòa F)
 ID: 8953   | Labels: Cây ATM Agribank
 ID: 8976   | Labels: Phòng 07 (Tòa F)
+ID: 8980   | Labels: I.36, BM. hóa vô cơ & ứng dụng PTN. hóa vô cơ chuyên ngành
 ID: 9049   | Labels: Văn phòng Khoa SH-CNSH (Tòa F)
+ID: 9108   | Labels: Thư quán
 ID: 9119   | Labels: Nhà vệ sinh nam cạnh cầu thang (Lầu4)
 ID: 9150   | Labels: Phòng họp F102 (Cửa 1)
 ID: 9179   | Labels: Phòng họp F102 (Cửa 2)
@@ -200,6 +280,7 @@ ID: 9228   | Labels: Phòng bộ môn sinh hóa
 ID: 9232   | Labels: Phòng F205b
 ID: 9248   | Labels: Văn phòng Đoàn (Tòa F)
 ID: 9331   | Labels: Phòng 04 (Tòa F)
+ID: 9335   | Labels: I.89, phòng vật lý tính toán
 ID: 9391   | Labels: Phòng 202 (Tòa F - Cửa 1)
 ID: 9483   | Labels: Phòng máy tính khoa vật lý B.36
 ID: 9562   | Labels: Đầu cầu thang bên phải tòa B tầng 1
@@ -208,6 +289,9 @@ ID: 9587   | Labels: Cuối cầu thang bên trái tòa B tầng 3
 ID: 9600   | Labels: Cuối cầu thang bên trái tòa B tầng 1
 ID: 9601   | Labels: E305
 ID: 9660   | Labels: Nhà vệ sinh nữ cạnh cầu thang (Lầu3)
+ID: 9673   | Labels: I.61, phòng máy tính
 ID: 9771   | Labels: Phòng đào tạo sau đại học
+ID: 9783   | Labels: I.51, Bộ phận kỹ thuật
+ID: 9817   | Labels: I.47, BM. Hóa phân tích PTN. Hóa phân tích chuyên ngành
 ID: 9874   | Labels: Phòng F301
 ID: 9931   | Labels: Văn phòng Đảng ủy (Tòa F)
