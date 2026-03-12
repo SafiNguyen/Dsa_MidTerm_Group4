@@ -1,5 +1,5 @@
 --- BÁO CÁO CÁC NÚT ĐANG HOẠT ĐỘNG (ACTIVE) ---
-Tổng cộng: 294 nút.
+Tổng cộng: 312 nút.
 --------------------------------------------------
 ID: 72     | Labels: B.42
 ID: 90     | Labels: Phòng F305 (Cửa 1)
@@ -7,7 +7,25 @@ ID: 95     | Labels: Cửa 1 phòng E203
 ID: 150    | Labels: Bộ môn Vật lý - Tin học (Lầu3)
 ID: 172    | Labels: B.40A
 ID: 226    | Labels: I.53, K-Công nghệ thông tin
-ID: 348    | Labels: cầu thang
+ID: 348    | Labels: cầu thang tầng 1
+ID: 349    | Labels: cầu thang tầng 1 ra khu C
+ID: 350    | Labels: cầu thang tầng 2
+ID: 351    | Labels: cầu thang tầng 2 ra khu C
+ID: 352    | Labels: cầu thang tầng 3
+ID: 353    | Labels: cầu thang tầng 3 ra khu C
+ID: 354    | Labels: cầu thang tầng 4
+ID: 355    | Labels: cầu thang tầng 4 ra khu C
+ID: 356    | Labels: cầu thang tầng 5
+ID: 357    | Labels: cầu thang tầng 5 ra khu C
+ID: 358    | Labels: cầu thang tầng 6
+ID: 359    | Labels: cầu thang tầng 6 ra khu C
+ID: 360    | Labels: cầu thang tầng 7
+ID: 361    | Labels: cầu thang tầng 7 ra khu C
+ID: 362    | Labels: cầu thang tầng 8
+ID: 363    | Labels: cầu thang tầng 8 ra khu C
+ID: 364    | Labels: cầu thang tầng 9
+ID: 365    | Labels: cầu thang tầng 10
+ID: 366    | Labels: cầu thang tầng 11
 ID: 370    | Labels: Phòng 202 (Tòa F - Cửa 2)
 ID: 373    | Labels: Phòng E206
 ID: 376    | Labels: Cuối cầu thang bên trái tòa B tầng trệt
