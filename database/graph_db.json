@@ -25194,9 +25194,9 @@
         },
         "6198": {
             "labels": [
-                "cổng chính I"
+                "cổng chính I(tòa I)"
             ],
-            "active": false
+            "active": true
         },
         "6199": {
             "labels": [],
@@ -32554,9 +32554,9 @@
         },
         "8016": {
             "labels": [
-                "cổng gần đường chính"
+                "cổng gần đường chính(tòa I)"
             ],
-            "active": false
+            "active": true
         },
         "8017": {
             "labels": [],
@@ -38663,9 +38663,9 @@
         },
         "9511": {
             "labels": [
-                "cổng gần khu C"
+                "cổng gần khu C(tòa I)"
             ],
-            "active": false
+            "active": true
         },
         "9512": {
             "labels": [],
@@ -40079,12 +40079,12 @@
             "active": false
         },
         "9859": {
-            "labels": [],
-            "active": false
+            "labels": ["Đường sau cột cờ"],
+            "active": true
         },
         "9860": {
-            "labels": [],
-            "active": false
+            "labels": ["Đường trước cột cờ"],
+            "active": true
         },
         "9861": {
             "labels": [],
@@ -40177,8 +40177,8 @@
             "active": false
         },
         "9883": {
-            "labels": [],
-            "active": false
+            "labels": ["giảng đường 1"],
+            "active": true
         },
         "9884": {
             "labels": [],
@@ -40639,7 +40639,7 @@
             "active": false
         },
         "9998": {
-            "labels": [],
+            "labels": ["Cổng trường"],
             "active": false
         },
         "9999": {
@@ -42305,6 +42305,16 @@
         },
         { "from": "7403", "to": "6704", "weight": 2.0 },
         { "from": "6704", "to": "8354", "weight": 1.5 },
-        { "from": "8354", "to": "5446", "weight": 1.5 }  
+        { "from": "8354", "to": "5446", "weight": 1.5 },
+
+        { "from": "3321", "to": "9511", "weight": 6.0},
+        { "from": "9998", "to": "6198", "weight": 20.0},
+        { "from": "9998", "to": "9860", "weight": 17.0},
+        { "from": "9860", "to": "8016", "weight": 6.0},
+        { "from": "9860", "to": "9883", "weight": 6.0},
+        { "from": "9860", "to": "9859", "weight": 14.0},
+        { "from": "9860", "to": "8812", "weight": 5.0},
+        { "from": "9859", "to": "2883", "weight": 5.0},
+        { "from": "9859", "to": "6221", "weight": 5.0}
     ]
 }

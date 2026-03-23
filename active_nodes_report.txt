@@ -1,5 +1,5 @@
 --- BÁO CÁO CÁC NÚT ĐANG HOẠT ĐỘNG (ACTIVE) ---
-Tổng cộng: 312 nút.
+Tổng cộng: 318 nút.
 --------------------------------------------------
 ID: 72     | Labels: B.42
 ID: 90     | Labels: Phòng F305 (Cửa 1)
@@ -204,6 +204,7 @@ ID: 6004   | Labels: Phòng 101 (Tòa F)
 ID: 6058   | Labels: I.11
 ID: 6070   | Labels: B.43
 ID: 6134   | Labels: Phòng thí nghiệm sinh môi
+ID: 6198   | Labels: cổng chính I(tòa I)
 ID: 6221   | Labels: Cầu thang trung tâm & Giảng đường (Tòa F - Trệt)
 ID: 6284   | Labels: Cầu thang y tế (Tòa E) - Lầu4
 ID: 6320   | Labels: E403 (2)
@@ -243,6 +244,7 @@ ID: 7827   | Labels: I.25, BM. hóa vô cơ & ứng dụng phòng nghiên cứu
 ID: 7829   | Labels: I.26
 ID: 7890   | Labels: I.69, PTN. Polyme 2
 ID: 8005   | Labels: Phòng 112 (Tòa F)
+ID: 8016   | Labels: cổng gần đường chính(tòa I)
 ID: 8045   | Labels: I.71, Phòng máy tính
 ID: 8046   | Labels: I.27, BM. hóa vô cơ & ứng dụng
 ID: 8140   | Labels: Phòng thí nghiệm hóa phân tích chuyên ngành B.26
@@ -301,6 +303,7 @@ ID: 9331   | Labels: Phòng 04 (Tòa F)
 ID: 9335   | Labels: I.89, phòng vật lý tính toán
 ID: 9391   | Labels: Phòng 202 (Tòa F - Cửa 1)
 ID: 9483   | Labels: Phòng máy tính khoa vật lý B.36
+ID: 9511   | Labels: cổng gần khu C(tòa I)
 ID: 9562   | Labels: Đầu cầu thang bên phải tòa B tầng 1
 ID: 9567   | Labels: Bộ môn Điện tử (Lầu1)
 ID: 9587   | Labels: Cuối cầu thang bên trái tòa B tầng 3
@@ -311,5 +314,8 @@ ID: 9673   | Labels: I.61, phòng máy tính
 ID: 9771   | Labels: Phòng đào tạo sau đại học
 ID: 9783   | Labels: I.51, Bộ phận kỹ thuật
 ID: 9817   | Labels: I.47, BM. Hóa phân tích PTN. Hóa phân tích chuyên ngành
+ID: 9859   | Labels: Đường sau cột cờ
+ID: 9860   | Labels: Đường trước cột cờ
 ID: 9874   | Labels: Phòng F301
+ID: 9883   | Labels: giảng đường 1
 ID: 9931   | Labels: Văn phòng Đảng ủy (Tòa F)
