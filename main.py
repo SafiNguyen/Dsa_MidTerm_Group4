@@ -8,7 +8,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 def serialization(indexes, labels, edges, all_nodes_dict):
     DB_FILE = os.path.join(BASE_DIR, "database", "graph_db.json")
     if not os.path.exists(DB_FILE):
-        print("❌ Lỗi: Cần chạy file init_fixed_db.py trước!")
+        print("Lỗi: Cần chạy file init_fixed_db.py trước!")
         return False
     
     with open(DB_FILE, 'r', encoding='utf-8') as f:
@@ -78,7 +78,7 @@ def main():
         return
 
     num_active = len(indexes)
-    print(f"✅ Đã tải {num_active} nút active vào bộ nhớ!")
+    print(f"Đã tải {num_active} nút active vào bộ nhớ!")
 
     # Load Graph cho C++ (Lưu ý: truyền số lượng node active)
     graph_data = load_graph(num_active, edges)
@@ -95,7 +95,7 @@ def main():
         ]
         lib.find_path.restype = ctypes.c_int
     except Exception as e:
-        print(f"❌ Lỗi load DLL: {e}")
+        print(f"Lỗi load DLL: {e}")
         return
 
     while True:
@@ -107,14 +107,14 @@ def main():
         id2 = find_id(l2, all_nodes_dict)
 
         if id1 is None or id2 is None:
-            print("❌ Không tìm thấy nhãn trong database!")
+            print("Không tìm thấy nhãn trong database!")
             continue
 
         try:
             src_idx = indexes.index(id1)
             dest_idx = indexes.index(id2)
         except ValueError:
-            print("❌ Nút tồn tại nhưng chưa được kích hoạt (Active=False)!")
+            print("Nút tồn tại nhưng chưa được kích hoạt (Active=False)!")
             continue
 
         # Gọi C++ tìm đường

@@ -115,13 +115,11 @@ int find_path(
         f_size = nf_size;
     }
 
-    // 4. Tái cấu trúc đường đi (Ghi trực tiếp vào out_path)
     int path_len = 0;
     if (dist[end] != INF) {
         for (int v = end; v != -1; v = prev[v]) {
             out_path[path_len++] = v;
         }
-        // Đảo ngược mảng tại chỗ
         for (int i = 0; i < path_len / 2; ++i) {
             int tmp = out_path[i];
             out_path[i] = out_path[path_len - 1 - i];

@@ -8,12 +8,11 @@ MAX_SLOTS = 10000
 def get_base_id(label):
     """Sử dụng MD5 để băm nhãn thành một con số cố định"""
     hash_hex = hashlib.md5(label.encode('utf-8')).hexdigest()
-    # Chuyển 8 ký tự đầu của hex thành int để lấy số ID gốc
     return (int(hash_hex[:8], 16) % MAX_SLOTS) + 1
 
 def load_db():
     if not os.path.exists(DB_FILE):
-        print("❌ Lỗi: Cần chạy file init_fixed_db.py trước!")
+        print("Lỗi: Cần chạy file init_fixed_db.py trước!")
         return None
     with open(DB_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
@@ -33,8 +32,6 @@ def add_node_linear_probing(data):
         
         # Bắt đầu dò tuyến tính từ base_id
         for i in range(MAX_SLOTS):
-            # Công thức: (base_id + i - 1) % MAX_SLOTS + 1
-            # Giúp vòng lặp quay lại 1 khi vượt quá 10000
             current_id = str(((base_id + i - 1) % MAX_SLOTS) + 1)
             
             if not data["nodes"][current_id]["active"]:
@@ -44,17 +41,17 @@ def add_node_linear_probing(data):
         if found_id:
             data["nodes"][found_id]["active"] = True
             data["nodes"][found_id]["labels"] = [label]
-            print(f"✅ Đã cấp ID {found_id} cho nhãn '{label}' (Vị trí gốc: {base_id})")
+            print(f"Đã cấp ID {found_id} cho nhãn '{label}' (Vị trí gốc: {base_id})")
             
             # Nhập thêm các nhãn khác nếu có
             while True:
                 extra = input(f"   Thêm nhãn phụ cho ID {found_id} (hoặc 'None'): ").strip()
                 if extra.lower() == 'none' or extra == '-': 
-                    print(f" ❌Kết thúc nhập nhãn cho ID {found_id}.")
+                    print(f"Kết thúc nhập nhãn cho ID {found_id}.")
                     break
                 data["nodes"][found_id]["labels"].append(extra)
         else:
-            print("🛑 Database đã đầy, không thể thêm nút mới!")
+            print("Database đã đầy, không thể thêm nút mới!")
 
 def add_edges(data):
     print("\n--- THÊM CẠNH CÓ TRỌNG SỐ ---")
@@ -70,13 +67,13 @@ def add_edges(data):
                 try:
                     w = float(input(f"Trọng số cạnh {u}-{v}: "))
                     data["edges"].append({"from": u, "to": v, "weight": w})
-                    print(f"✅ Đã thêm cạnh: {u} --({w})--> {v}")
+                    print(f"Đã thêm cạnh: {u} --({w})--> {v}")
                 except ValueError:
-                    print("❌ Trọng số phải là con số!")
+                    print("Trọng số phải là con số!")
             else:
-                print("❌ Một trong hai ID chưa được gán nhãn (active=False)!")
+                print("Một trong hai ID chưa được gán nhãn (active=False)!")
         else:
-            print("❌ ID không hợp lệ (phải từ 1-10000)!")
+            print("ID không hợp lệ (phải từ 1-10000)!")
 
 def main():
     db = load_db()
@@ -95,7 +92,7 @@ def main():
             add_edges(db)
         elif choice == '3':
             save_db(db)
-            print("💾 Dữ liệu đã được đồng bộ vào file JSON.")
+            print("Dữ liệu đã được đồng bộ vào file JSON.")
             break
 
 if __name__ == "__main__":

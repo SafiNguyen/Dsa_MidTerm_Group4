@@ -8,7 +8,7 @@ OUTPUT_FILE = "active_nodes_report.txt"
 def export_active_nodes():
     # 1. Kiểm tra file JSON có tồn tại không
     if not os.path.exists(DB_FILE):
-        print(f"❌ Không tìm thấy file: {DB_FILE}")
+        print(f"Không tìm thấy file: {DB_FILE}")
         return
 
     try:
@@ -39,10 +39,10 @@ def export_active_nodes():
             else:
                 f.write("Chưa có nút nào được kích hoạt.")
         
-        print(f"✅ Đã xuất danh sách {len(active_list)} nút active ra file: {OUTPUT_FILE}")
+        print(f"Đã xuất danh sách {len(active_list)} nút active ra file: {OUTPUT_FILE}")
 
     except Exception as e:
-        print(f"❌ Đã xảy ra lỗi: {e}")
+        print(f"Đã xảy ra lỗi: {e}")
 
 if __name__ == "__main__":
     export_active_nodes()

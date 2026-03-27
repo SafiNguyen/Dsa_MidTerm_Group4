@@ -12,7 +12,7 @@ def init_fixed_database(filename="./graph_db.json"):
     
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
-    print(f"✅ Đã tạo database với 10,000 slot trống tại {filename}")
+    print(f"Đã tạo database với 10,000 slot trống tại {filename}")
 
 if __name__ == "__main__":
     init_fixed_database()
