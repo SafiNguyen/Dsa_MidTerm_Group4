@@ -200,7 +200,7 @@ python database/import_data.py
 - If a label already exists in an active node → that node is **reused**.
 - If the label is new → a fresh node ID is assigned using MD5 hash of the label, with linear probing to find a free slot.
 
-> ⚠️ **Renaming labels** (e.g. `Phòng 03` → `Phòng 03 (Tòa F)`) causes the importer to create entirely new nodes, since all lookups are exact-match. If performing bulk renames, re-initialize the database first with `init_db.py` and re-import from scratch.
+>**Renaming labels** (e.g. `Phòng 03` → `Phòng 03 (Tòa F)`) causes the importer to create entirely new nodes, since all lookups are exact-match. If performing bulk renames, re-initialize the database first with `init_db.py` and re-import from scratch.
 
 ### 6.2 Interactive Editor (`manage_db.py`)
 
@@ -233,7 +233,7 @@ There is no dedicated delete command. Use direct JSON editing for deletions.
 **Delete an edge:**  
 Remove the matching object from the `edges` array (match on both `from` and `to`).
 
-> 💾 Always back up before editing: copy `graph_db.json` → `graph_db.json.bak`
+> Always back up before editing: copy `graph_db.json` → `graph_db.json.bak`
 
 ---
 
@@ -245,7 +245,7 @@ Label accuracy is **critical** — the pathfinder uses exact string matching thr
 
 When multiple buildings share similar room numbers, always include the building name:
 
-| ✅ Correct | ❌ Ambiguous |
+|  Correct |  Ambiguous |
 |---|---|
 | `Phòng 02 (Tòa F)` | `Phòng 02` |
 | `Phòng 02 (Tòa E)` | `Phòng 02` |
@@ -290,7 +290,7 @@ extern "C" int find_path(
 3. Build in **Release** mode.
 4. Copy the output `pathfinder.dll` to `path_finder/pathfinder.dll`.
 
-> ⚠️ The DLL architecture **must match** your Python interpreter. 64-bit Python requires an x64 DLL.
+>  The DLL architecture **must match** your Python interpreter. 64-bit Python requires an x64 DLL.
 
 ---
 
